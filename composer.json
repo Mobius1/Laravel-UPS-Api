@@ -1,6 +1,6 @@
 {
-  "name": "ptondereau/laravel-ups-api",
-  "description": "A small Laravel's wrapper for the PHP UPS API library",
+  "name": "mobius1/laravel-ups-api",
+  "description": "A fork of Pierre Tondereau's UPS wrapper for Laravel 5.8.*",
   "keywords": ["laravel", "framework", "UPS", "Laravel UPS Api", "Laravel-Ups-Api", "Pierre Tondereau", "Ptondereau"],
   "require": {
     "php": ">=5.5.9",
